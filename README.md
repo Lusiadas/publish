@@ -68,6 +68,8 @@ omf install publish
 
 ### Dependencies
 
-Except for `termux-api`, you'll be prompted to install these dependencies upon installaling `publish`, if you don't have them already installed. To install `termux-api`, see its [installation instructions](https://wiki.termux.com/wiki/Termux:API)
+If you don't have these dependencies already installed, you'll be prompted to do so upon installaling `publish`:
 
 `pastebinit feedback contains_opts [xclip/termux-api]`
+
+To properly install `termux-api`, see its [installation instructions](https://wiki.termux.com/wiki/Termux:API).
